@@ -1,0 +1,17 @@
+C:\Users\ChidiebereOnwunyirig\source\repos\WinFormsTest\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.exe
+C:\Users\ChidiebereOnwunyirig\source\repos\WinFormsTest\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.deps.json
+C:\Users\ChidiebereOnwunyirig\source\repos\WinFormsTest\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.runtimeconfig.json
+C:\Users\ChidiebereOnwunyirig\source\repos\WinFormsTest\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.runtimeconfig.dev.json
+C:\Users\ChidiebereOnwunyirig\source\repos\WinFormsTest\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.dll
+C:\Users\ChidiebereOnwunyirig\source\repos\WinFormsTest\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.pdb
+C:\Users\ChidiebereOnwunyirig\source\repos\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.csproj.AssemblyReference.cache
+C:\Users\ChidiebereOnwunyirig\source\repos\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.Form1.resources
+C:\Users\ChidiebereOnwunyirig\source\repos\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.csproj.GenerateResource.cache
+C:\Users\ChidiebereOnwunyirig\source\repos\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChidiebereOnwunyirig\source\repos\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.AssemblyInfoInputs.cache
+C:\Users\ChidiebereOnwunyirig\source\repos\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.AssemblyInfo.cs
+C:\Users\ChidiebereOnwunyirig\source\repos\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.csproj.CoreCompileInputs.cache
+C:\Users\ChidiebereOnwunyirig\source\repos\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.dll
+C:\Users\ChidiebereOnwunyirig\source\repos\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.pdb
+C:\Users\ChidiebereOnwunyirig\source\repos\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.genruntimeconfig.cache
+C:\Users\ChidiebereOnwunyirig\source\repos\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.Properties.Resources.resources
